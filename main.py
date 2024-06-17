@@ -1,5 +1,5 @@
 import streamlit as st
-#import index1
+import index1
 
 #from PAGE2 import PAGE2
 
@@ -50,7 +50,7 @@ def main():
     #page = st.sidebar.radio("LLS-U1", ["OEE", "Conveyor"])
 
     if page == "OEE":
-       # index1.index1()
+        index1.index1()
         st.write("This is Page 1")
     #if a==5:
       #  index()
