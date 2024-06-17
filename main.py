@@ -1,5 +1,5 @@
 import streamlit as st
-import index1
+#import index1
 
 #from PAGE2 import PAGE2
 
