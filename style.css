@@ -26,6 +26,8 @@ body {
 }
 
 .stButton>button:hover {
-    background-color: #45a049; /* Darker green on hover */
+    background-color: #0d67ee; /* Darker green on hover */
+    color: rgb(255, 255, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 }
