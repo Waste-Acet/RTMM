@@ -1,0 +1,31 @@
+/* Custom CSS styles */
+body {
+    background-color: #6d91d8; /* Light gray background */
+}
+
+.sidebar .sidebar-content {
+    background-color: #6ceaee; /* White sidebar background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
+}
+
+.stButton>button {
+    background-color: #e6f7e6; /* Green button */
+    color: rgb(3, 3, 3);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+.stButton>button:hover {
+    background-color: #45a049; /* Darker green on hover */
+
+}
