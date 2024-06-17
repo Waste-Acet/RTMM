@@ -9,9 +9,9 @@ from PIL import Image
 import random
 import base64
 
-from pymodbus.client import ModbusTcpClient
+#from pymodbus.client import ModbusTcpClient
 from streamlit_apexjs import st_apexcharts
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 from st_excel_table import Table
 
 
