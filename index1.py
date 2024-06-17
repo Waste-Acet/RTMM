@@ -10,9 +10,9 @@ import random
 import base64
 
 #from pymodbus.client import ModbusTcpClient
-from streamlit_apexjs import st_apexcharts
+#from streamlit_apexjs import st_apexcharts
 #import matplotlib.pyplot as plt
-from st_excel_table import Table
+#from st_excel_table import Table
 
 
 #SERVER_IP = '192.168.43.119'  # Replace with the IP address of your Modbus device
